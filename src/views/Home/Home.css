@@ -1,0 +1,21 @@
+.container {
+  position: absolute;
+  top: 175px;
+  left: 250px;
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 8px;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container2 {
+  position: absolute;
+  top: 150px;
+  left: 500px;
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 8px;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
